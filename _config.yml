@@ -21,7 +21,7 @@
 title: divi.domains
 email: bertshuler@divi.domains
 description: >- # this means to ignore newlines until "baseurl:"
-  The mission of Divi Domains is to support the [Divi Project](https://diviproject.org/)
+  The mission of Divi Domains is to support the Divi Project
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "divi.domains"
 url: "https://divi.domains" # the base hostname & protocol for your site, e.g. http://example.com

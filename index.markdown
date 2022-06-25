@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+[Divi Main net Block Explorer](https://blocks.divi.domains)
+[Diviscan API](https://diviscan.divi.domains)
+
+
+[Divi Test net Block Explorer](https://blocks-testnet.divi.domains)
