@@ -6,6 +6,7 @@ layout: home
 ---
 
 [Divi Main net Block Explorer](https://blocks.divi.domains)
+
 [Diviscan API](https://diviscan.divi.domains)
 
 
