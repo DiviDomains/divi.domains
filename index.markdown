@@ -9,5 +9,6 @@ layout: home
 
 [Diviscan API](https://diviscan.divi.domains)
 
-
 [Divi Test net Block Explorer](https://blocks-testnet.divi.domains)
+
+[Divi RPC Documentation](http://divi-rpc-docs.divi.domains/)
