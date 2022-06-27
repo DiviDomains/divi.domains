@@ -6,4 +6,4 @@
 
 [Siege Worlds](https://siegeworlds.com/)
 
-[Lightning Works/](https://lightningworks.io/)
+[Lightning Works](https://lightningworks.io/)
