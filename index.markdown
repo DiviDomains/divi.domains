@@ -11,4 +11,6 @@ layout: home
 
 [Divi Test net Block Explorer](https://blocks-testnet.divi.domains)
 
+[Divi Test net faucet](https://faucet.divi.domains)
+
 [Divi RPC Documentation](http://divi-rpc-docs.divi.domains/)
